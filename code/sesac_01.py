@@ -224,7 +224,7 @@ while name != "e":
     name = input("이름:")
 
 # break로 빠져나오기 
- while True:
+while True:
     name = input('이름:') 
     if name =="e":
         break

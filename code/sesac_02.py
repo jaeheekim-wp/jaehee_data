@@ -86,15 +86,15 @@ def introduce(name) :
     print('안녕하세요')
     print('저의 이름은,'+name+'입니다.')
 
- introduce("재희")
- introduce('jaehee')
+introduce("재희")
+introduce('jaehee')
 
 def introduce2(name, age):
     print('안녕하세요')
     print('저의 이름은,'+name+'입니다.')
     print('나이는,'+str(age)+'살입니다.')
 
- introduce2("jaehee",27)  
+introduce2("jaehee",27)  
 
 def number(i):
     for i in range(2,11):
