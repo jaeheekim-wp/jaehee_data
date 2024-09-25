@@ -14,6 +14,7 @@ import pandas as pd
 df =  pd.read_csv('data/scores.csv')
 df
 
+import seaborn as sns
 # 시리즈
 df['name']
 df.name
