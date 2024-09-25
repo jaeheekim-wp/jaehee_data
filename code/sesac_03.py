@@ -82,3 +82,14 @@ df.iloc[-1,1:4:2]
 # 모든 행,1열
 df.iloc[:,1]
 
+
+# import seaborn as sns
+# import matplotlib.pyplot as plt
+
+
+# var=["a", "a", "b", "c"]
+# var
+
+# sns.countplot(x=var)
+# plt.show()
+# plt.clf()
