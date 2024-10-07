@@ -50,7 +50,7 @@ df.loc[:,"name"] # 시리즈
 df.loc[:,["name"]] # 데이터프레임
 df.loc[:,["name","math"]]
 
-# ========
+# ============
 # iloc 사용
 
 df.iloc[0]
@@ -81,7 +81,6 @@ df.iloc[-1,1:4:2]
 
 # 모든 행,1열
 df.iloc[:,1]
-
 
 # import seaborn as sns
 # import matplotlib.pyplot as plt
